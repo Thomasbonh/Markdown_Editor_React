@@ -1,0 +1,43 @@
+.wrap {
+  background-color: rgb(129, 129, 218);
+}
+
+.nav {
+  padding-top: 9px;
+  padding-bottom: 9px;
+  font-size: 1.2em;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: rgb(109, 150, 212);
+  border-bottom: 1.5px solid #000000;;
+  padding-left: 30px;
+  font-weight: bold;
+  
+}
+.edit {
+  background-color: rgb(173, 191, 224);
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 38%;
+  border: 2px solid #000000;
+  border-radius: 3px;
+  height: 260px;
+  
+}
+.prev {
+  background-color: rgb(195, 205, 223);
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+  border: 2px solid #000000;
+  border-radius: 3px;
+  height: 850px;
+  
+}
+textarea {
+  width: 99%;
+  height: 212px;
+  background-color: rgb(195, 205, 223);
+}
+textarea { resize: none; }
